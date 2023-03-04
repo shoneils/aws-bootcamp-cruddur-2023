@@ -9,6 +9,6 @@ Created conceptual diagram with lucid chart
 [concenptual diagram proof](https://lucid.app/lucidchart/45bfbbab-8413-4704-a428-1ecadcaac5d9/edit?viewport_loc=-287%2C30%2C1768%2C819%2C0_0&invitationId=inv_d20ecf3a-aaf0-4535-bf3a-324076b9480e)
 ![conceptual diagrm proof](assets/lucid-chart-conceptual-diagram.png)
 ## Create a billing alarm
-## creat budget
+## Creat budget
 ## Homework Challenges
 I had problems adding images for a while but got it figured out eventually.
